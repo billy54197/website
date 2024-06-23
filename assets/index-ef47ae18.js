@@ -1,0 +1,1 @@
+import{d as n,H as c,l as o,T as p,__tla as u}from"./index-d2e32ea4.js";let t,_=Promise.all([(()=>{try{return u}catch{}})()]).then(async()=>{t=n({name:"Redirect",setup(){const r=c(),e=o();return p(()=>{const{params:s,query:l}=r,{path:a}=s;e.replace({path:"/"+(Array.isArray(a)?a.join("/"):a),query:l})}),()=>""}})});export{_ as __tla,t as default};
