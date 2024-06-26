@@ -1,0 +1,1 @@
+import{y as o,__tla as n}from"./index-8cd0153a.js";let e,s=Promise.all([(()=>{try{return n}catch{}})()]).then(async()=>{let a;a="/portalPrdColor",e=async()=>new Promise((r,l)=>{o(`${a}/getColorData`).then(t=>{r(t.data)}).catch(t=>{l(t)})})});export{s as __tla,e as g};
