@@ -1,1 +1,0 @@
-import{d as s,A as n,s as r,b as i,c as _,k as u,__tla as c}from"./index-8cd0153a.js";let a,o=Promise.all([(()=>{try{return c}catch{}})()]).then(async()=>{let t;t=["innerHTML"],a=s({__name:"index",setup(d){const e=n(),l=r(()=>e==null?void 0:e.getWebsiteService);return(m,p)=>(i(),_("div",null,[u("div",{innerHTML:l.value},null,8,t)]))}})});export{o as __tla,a as default};
